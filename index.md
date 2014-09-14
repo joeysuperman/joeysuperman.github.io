@@ -17,5 +17,5 @@ title: Welcome to joey blog
 
 
 ----------
-Jia Dong  jiadong2006@gmail.com  
+Jia Dong  email: jiadong2006@gmail.com  
 
